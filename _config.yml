@@ -57,11 +57,11 @@ avatar: "/img/avatar.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Frederik Kratzert
-  email: "f.kratzert@gmail.com"
-  github: kratzert
-  twitter: fkratzert
-  linkedin: frederik-kratzert-226a33148
+  name: Daniel Connolly
+  email: "connollydanielw@gmail.com"
+  github: DWConnolly
+  twitter: DWConnolly
+  linkedin: danielconnolly
   xing: yourname
   stackoverflow: yourlink
 
